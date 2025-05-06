@@ -1,0 +1,11 @@
+{
+  "id": "publish-hugo",
+  "name": "Publish to Hugo",
+  "version": "0.1.0",
+  "minAppVersion": "0.12.0",
+  "description": "Publish notes as Hugo page bundles",
+  "author": "dazzatronus",
+  "authorUrl": "https://derk.cc",
+  "repo": "https://github.com/dazzatronus/obsidian-hugo-publish/",
+  "isDesktopOnly": false
+}
